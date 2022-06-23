@@ -1,0 +1,10 @@
+.box {
+    color: black;
+    cursor: pointer;
+    font-weight: bolder;
+    font-size: 40px;
+    min-height: 50px;
+    min-width: 50px;
+    background-color: burlywood;
+    margin: 5px;
+}
