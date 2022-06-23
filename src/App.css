@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.win{
+  font-weight: bold;
+}
+
+.playAgain{
+  position: fixed;
+  margin-top: 500px;
+}
